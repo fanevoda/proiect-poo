@@ -1,0 +1,32 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (cel mai power proiect poo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\Stefan\Desktop\unibuc\celmaipowerproiectpoo\cel mai power proiect poo\cel mai power proiect poo\Game.cpp(27,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stefan\Desktop\unibuc\celmaipowerproiectpoo\cel mai power proiect poo\cel mai power proiect poo\Enemy.h(20,10): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Stefan\Desktop\unibuc\celmaipowerproiectpoo\cel mai power proiect poo\cel mai power proiect poo\Enemy.h(18,1): message : while compiling class template member function 'Enemy<int>::Enemy(T,T,std::string)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Stefan\Desktop\unibuc\celmaipowerproiectpoo\cel mai power proiect poo\cel mai power proiect poo\Game.cpp(55,22): message : see reference to function template instantiation 'Enemy<int>::Enemy(T,T,std::string)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Stefan\Desktop\unibuc\celmaipowerproiectpoo\cel mai power proiect poo\cel mai power proiect poo\Game.cpp(55,37): message : see reference to class template instantiation 'Enemy<int>' being compiled
+C:\Users\Stefan\Desktop\unibuc\celmaipowerproiectpoo\cel mai power proiect poo\cel mai power proiect poo\Enemy.h(21,10): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  enemy.cpp
+  mario.cpp
+  Generating Code...
+  cel mai power proiect poo.vcxproj -> C:\Users\Stefan\Desktop\unibuc\celmaipowerproiectpoo\cel mai power proiect poo\x64\Debug\mario.exe
