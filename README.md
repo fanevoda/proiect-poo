@@ -1,6 +1,6 @@
-# Super Mario Bros Small Clone
+# Super Mario Bros Small Replica
 
-This project is a small clone of the classic video game "Super Mario Bros." It aims to recreate a simplified version of the game using C++ and the SFML. The clone will feature a basic level, player controls, enemy behavior, and scoring system.
+This project is a small replica of the classic video game "Super Mario Bros." It aims to recreate a simplified version of the game's first level using C++ and the SFML. It will feature a basic level, player controls, enemy behavior, and scoring system.
 
 ## Requirements
 
